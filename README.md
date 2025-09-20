@@ -1,4 +1,4 @@
-# Hi, I'm Gustavo! 👋
+# Yo! 👋
 
 Welcome to my GitHub profile. I am a passionate and constantly evolving IT professional, always seeking to master the most diverse areas of knowledge to deliver robust and efficient solutions.
 
