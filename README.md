@@ -18,14 +18,6 @@ My goal is clear: to be a well-rounded IT professional with a 360º vision that 
 
 ### 🚀 Skills and Interests
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Cloud_Engineering-2096F3?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud Engineering" />
-  <img src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
-  <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=linux-terminal&logoColor=white" alt="Security" />
-  <img src="https://img.shields.io/badge/Development-333333?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Development" />
-  <img src="https://img.shields.io/badge/Helpdesk-FF6C37?style=for-the-badge&logo=zendesk&logoColor=white" alt="Helpdesk" />
-</p>
-
 I am always studying and applying new concepts. Currently, my areas of focus are:
 
 - **Cloud**: Azure (VMs, Blob Storage), Google Cloud.
